@@ -23,4 +23,4 @@ Built using **HTML, CSS, JavaScript**, and deployed with **GitHub Pages**.
 
 ## 📬 Contact  
 Email: samsg2405@gmail.com  
-LinkedIn: https://www.linkedin.com/in/samiksha-gupta  
+
